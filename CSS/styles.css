@@ -4,3 +4,14 @@ body {
 h1 {
     color: #21cad6;
 }
+nav {
+    background-color: #e59500;
+    border: ridge;
+    border-color: #002642;
+    text-align: center;
+}
+ul li {
+    display: inline-block;
+    padding: 0px 3px;
+    
+}
