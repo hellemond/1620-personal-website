@@ -6,14 +6,31 @@ h1 {
     color: #21cad6;
 
 }
-nav {
+nav.mainbar {
+    background-color: #e59500;
+    border: ridge;
+    border-color: #002642;
+    text-align: center;
+    position: sticky;
+    top: 10px;
+    left: 30px;
+}
+nav{
     background-color: #e59500;
     border: ridge;
     border-color: #002642;
     text-align: center;
 }
+
 ul li {
     display: inline-block;
     padding: 0px 3px;
     
+}
+p {
+    background-color: #e5dada;
+    border: ridge;
+    border-color: #02040F;
+    display: inline-block;
+    padding: 10px 0px;
 }
