@@ -31,6 +31,10 @@ p {
     background-color: #e5dada;
     border: ridge;
     border-color: #02040F;
-    display: inline-block;
-    padding: 10px 0px;
+}
+img{
+    float: left;
+    margin-right: 10px;
+    width: 345px; 
+    height: 359px;
 }
